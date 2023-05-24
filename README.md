@@ -33,3 +33,5 @@ Voici le résultat:
 <img src="traitementLogs/trace_24022023_10h30.png" width="500"/>
 
 Cela nous semble satisfaisant car le robot suit bien la ligne, malgré un fort courant, surtout vers la fin bien que l'on puisse observer quelques oscillations.
+
+test
